@@ -1,0 +1,16 @@
+C:\myApps\Milhas-aereas\obj\Debug\net5.0\Milhas-aereas.csproj.AssemblyReference.cache
+C:\myApps\Milhas-aereas\obj\Debug\net5.0\Milhas-aereas.GeneratedMSBuildEditorConfig.editorconfig
+C:\myApps\Milhas-aereas\obj\Debug\net5.0\Milhas-aereas.AssemblyInfoInputs.cache
+C:\myApps\Milhas-aereas\obj\Debug\net5.0\Milhas-aereas.AssemblyInfo.cs
+C:\myApps\Milhas-aereas\obj\Debug\net5.0\Milhas-aereas.csproj.CoreCompileInputs.cache
+C:\myApps\Milhas-aereas\bin\Debug\net5.0\Milhas-aereas.exe
+C:\myApps\Milhas-aereas\bin\Debug\net5.0\Milhas-aereas.deps.json
+C:\myApps\Milhas-aereas\bin\Debug\net5.0\Milhas-aereas.runtimeconfig.json
+C:\myApps\Milhas-aereas\bin\Debug\net5.0\Milhas-aereas.runtimeconfig.dev.json
+C:\myApps\Milhas-aereas\bin\Debug\net5.0\Milhas-aereas.dll
+C:\myApps\Milhas-aereas\bin\Debug\net5.0\ref\Milhas-aereas.dll
+C:\myApps\Milhas-aereas\bin\Debug\net5.0\Milhas-aereas.pdb
+C:\myApps\Milhas-aereas\obj\Debug\net5.0\Milhas-aereas.dll
+C:\myApps\Milhas-aereas\obj\Debug\net5.0\ref\Milhas-aereas.dll
+C:\myApps\Milhas-aereas\obj\Debug\net5.0\Milhas-aereas.pdb
+C:\myApps\Milhas-aereas\obj\Debug\net5.0\Milhas-aereas.genruntimeconfig.cache
